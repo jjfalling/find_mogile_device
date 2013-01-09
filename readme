@@ -1,0 +1,6 @@
+Find Mogile Drive
+
+This script is used to convert between a 3ware device, linux device, and mogile device. 
+It has only been tested on linux (centos) and newer 3ware cards.
+
+You must have tw_cli installed!
